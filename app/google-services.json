@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "76665426076",
+    "firebase_url": "https://somali-food-delivery.firebaseio.com",
+    "project_id": "somali-food-delivery",
+    "storage_bucket": "somali-food-delivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76665426076:android:35e319301cccc3f8275d59",
+        "android_client_info": {
+          "package_name": "com.example.moha.omar.somalifood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76665426076-momdlq90g3ivmmhc3hl18iqfn6pa8efj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moha.omar.somalifood",
+            "certificate_hash": "062a7e65e63e4c10b0b7b110c9ad6b53882277f5"
+          }
+        },
+        {
+          "client_id": "76665426076-2isn17o9cipvqmemvdkurljg6kitoteb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDytGQPUK_BTFt4oDoUWWrz7GYtZx-6Cu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76665426076-2isn17o9cipvqmemvdkurljg6kitoteb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
